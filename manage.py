@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 """Django's command-line utility for administrative tasks."""
+from settings import PROJECT_ROOT
 import os
 import sys
 
